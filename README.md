@@ -49,4 +49,8 @@ This program creates objects on the heap (meaning in memory), so it’s importan
 
 How is it built
 
-It uses a Makefile, which is like a set of instructions to build and run the program with one simple command (make). This keeps everything easier than typing long commands each time.
+It uses a Makefile, which is like a set of instructions to build and run the program with one simple command (make). This keeps everything easier than typing long commands each time. 
+
+Extra Credit – Sorting Students
+
+The program lets the user sort students by last name, first name, or credit hours. After sorting, all prints and searches show students in the new order. A message confirms which sort was done.
